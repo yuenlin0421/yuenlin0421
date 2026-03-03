@@ -7,6 +7,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/yuenlin0421" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yuenlin0421" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yu-en-lin-68582a3b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yu-en-lin-68582a3b4" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
