@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **yuenlin0421@gmail.com**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1hNJpT4WrUeKMVQUfDAXaTjG-YCxcxwws/view?usp=sharing](https://drive.google.com/file/d/1hNJpT4WrUeKMVQUfDAXaTjG-YCxcxwws/view?usp=sharing)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1D_55h1rcXSpaCDROZ91HgjZd0Y9xWOwr/view?usp=sharing](https://drive.google.com/file/d/1D_55h1rcXSpaCDROZ91HgjZd0Y9xWOwr/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
